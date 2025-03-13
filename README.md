@@ -7,7 +7,7 @@ This Tampermonkey script streamlines the login process for TU Wien by automatica
 - Automatically clicks the TU Wien login button on TUWEL (Moodle), if you are not logged in already
 - Clicks the login button on the SAML page (idp.zid....) after redirection.
 - Doesn't use any resources once logged in. (Script only runs when you are on login.php explicitly)
-- Adjust the script's polling frequency as needed (*pollingInterval*).
+- Adjust the script's polling frequency as needed (`pollingInterval`).
 
 ## Important
 
