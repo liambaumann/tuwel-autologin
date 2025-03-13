@@ -21,7 +21,6 @@ For seamless operation, **you must save your TU Wien login data in your browser'
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
 2. Create a new user script in Tampermonkey and add the code from this repository.
-3. Alternatively, install from [Greasyfork](https://greasyfork.org/) if available.
 
 ## Disclaimer
 
