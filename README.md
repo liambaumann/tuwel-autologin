@@ -1,7 +1,3 @@
-Below is a shortened version of the README.md file:
-
----
-
 # TUWEL Auto Registration
 
 This Tampermonkey script streamlines the login process for TU Wien by automatically clicking the necessary buttons on the TUWEL and SAML login pages.
